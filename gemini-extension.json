@@ -1,0 +1,12 @@
+{
+  "name": "zipir",
+  "version": "1.0.0",
+  "description": "Turn a document, PDF, deck or web page into a Turkish-narrated video lesson where every on-screen sentence cites its source.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "zipir": {
+      "httpUrl": "https://api.zipirapp.com/mcp",
+      "timeout": 600000
+    }
+  }
+}
